@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/roylaxmikanta/DSA/tree/master/3620-network-recovery-pathways) |
+## String
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
