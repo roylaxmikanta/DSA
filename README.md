@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 ## String Matching
 |  |
@@ -66,5 +67,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/roylaxmikanta/DSA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
