@@ -3,18 +3,18 @@ class Solution:
     def gcdSum(self, nums: list[int]) -> int:
         maxi=0
         n=len(nums)
-        if n==1:
-            return 0
         prefixGcd=[]
+
         for i in range(n):
             maxi=max(maxi,nums[i])
             prefixGcd.append(gcd(maxi,nums[i]))
+
         prefixGcd=sorted((prefixGcd))
+
         left=0
         right=len(prefixGcd)-1
         answer=0
-        if len(prefixGcd)==1:
-            return prefixGcd[0]
+        
         while left<right:
             if left==right:
                 break
