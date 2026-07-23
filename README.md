@@ -108,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1103-distribute-candies-to-people](https://github.com/roylaxmikanta/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/roylaxmikanta/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/roylaxmikanta/DSA/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
