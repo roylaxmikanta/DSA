@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/roylaxmikanta/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/roylaxmikanta/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/roylaxmikanta/DSA/tree/master/0009-palindrome-number) |
+| [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0728-self-dividing-numbers) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2485-find-the-pivot-integer](https://github.com/roylaxmikanta/DSA/tree/master/2485-find-the-pivot-integer) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
