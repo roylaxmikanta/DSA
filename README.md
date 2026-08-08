@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/roylaxmikanta/DSA/tree/master/0198-house-robber) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/roylaxmikanta/DSA/tree/master/1288-remove-covered-intervals) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/roylaxmikanta/DSA/tree/master/0198-house-robber) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/roylaxmikanta/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/roylaxmikanta/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
