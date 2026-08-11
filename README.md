@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0728-self-dividing-numbers) |
 | [1103-distribute-candies-to-people](https://github.com/roylaxmikanta/DSA/tree/master/1103-distribute-candies-to-people) |
+| [1317-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/roylaxmikanta/DSA/tree/master/1317-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roylaxmikanta/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2485-find-the-pivot-integer](https://github.com/roylaxmikanta/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/roylaxmikanta/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
