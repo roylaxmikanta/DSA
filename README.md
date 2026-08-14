@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0198-house-robber](https://github.com/roylaxmikanta/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/roylaxmikanta/DSA/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/roylaxmikanta/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/roylaxmikanta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [1768-merge-strings-alternately](https://github.com/roylaxmikanta/DSA/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/roylaxmikanta/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
