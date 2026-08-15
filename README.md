@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roylaxmikanta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/roylaxmikanta/DSA/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/roylaxmikanta/DSA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/roylaxmikanta/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/roylaxmikanta/DSA/tree/master/0213-house-robber-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/roylaxmikanta/DSA/tree/master/0009-palindrome-number) |
 | [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/roylaxmikanta/DSA/tree/master/0189-rotate-array) |
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0728-self-dividing-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0728-self-dividing-numbers) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roylaxmikanta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0160-intersection-of-two-linked-lists](https://github.com/roylaxmikanta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
+| [0189-rotate-array](https://github.com/roylaxmikanta/DSA/tree/master/0189-rotate-array) |
 | [1768-merge-strings-alternately](https://github.com/roylaxmikanta/DSA/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/roylaxmikanta/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
