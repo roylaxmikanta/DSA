@@ -4,12 +4,10 @@ class Solution:
             return []
         is_prime=[True]*n
         p=2
-        while p**2<n:
-            if is_prime[p]!=False:
-                i=2
-                while p*i<n:
-                    is_prime[p*i]=False
-                    i+=1
+        while p*p<=n:
+            if is_prime[p]:
+                for mul in range(p*p,n,p):
+                    is_prime[mul]=False
             p+=1
         ans=[]
         for i in range(2,(n//2)+1):
