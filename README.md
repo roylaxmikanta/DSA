@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 | [0062-unique-paths](https://github.com/roylaxmikanta/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/roylaxmikanta/DSA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/roylaxmikanta/DSA/tree/master/0070-climbing-stairs) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/roylaxmikanta/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/roylaxmikanta/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/roylaxmikanta/DSA/tree/master/0824-goat-latin) |
@@ -227,10 +229,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/roylaxmikanta/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/roylaxmikanta/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/roylaxmikanta/DSA/tree/master/0077-combinations) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/roylaxmikanta/DSA/tree/master/0141-linked-list-cycle) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
