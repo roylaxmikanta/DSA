@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/roylaxmikanta/DSA/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/roylaxmikanta/DSA/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/roylaxmikanta/DSA/tree/master/0063-unique-paths-ii) |
+| [0078-subsets](https://github.com/roylaxmikanta/DSA/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/roylaxmikanta/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/roylaxmikanta/DSA/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roylaxmikanta/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/roylaxmikanta/DSA/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/roylaxmikanta/DSA/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/roylaxmikanta/DSA/tree/master/0078-subsets) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -266,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/roylaxmikanta/DSA/tree/master/0011-container-with-most-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/roylaxmikanta/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
