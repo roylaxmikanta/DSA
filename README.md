@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roylaxmikanta/DSA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/roylaxmikanta/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/roylaxmikanta/DSA/tree/master/0213-house-robber-ii) |
+| [0392-is-subsequence](https://github.com/roylaxmikanta/DSA/tree/master/0392-is-subsequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/roylaxmikanta/DSA/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3620-network-recovery-pathways](https://github.com/roylaxmikanta/DSA/tree/master/3620-network-recovery-pathways) |
 ## Topological Sort
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/roylaxmikanta/DSA/tree/master/0125-valid-palindrome) |
+| [0392-is-subsequence](https://github.com/roylaxmikanta/DSA/tree/master/0392-is-subsequence) |
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/roylaxmikanta/DSA/tree/master/0824-goat-latin) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/roylaxmikanta/DSA/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/roylaxmikanta/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/roylaxmikanta/DSA/tree/master/0189-rotate-array) |
+| [0392-is-subsequence](https://github.com/roylaxmikanta/DSA/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/roylaxmikanta/DSA/tree/master/1768-merge-strings-alternately) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/roylaxmikanta/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Simulation
