@@ -8,12 +8,8 @@ class Solution:
                 stack.append(s[i])
             elif len(stack)==0:
                 return False
-            elif stack:
-                if s[i]==')' and stack.pop()!='(':
-                    return False
-                elif s[i]=='}' and stack.pop()!='{':
-                    return False
-                elif s[i]==']' and stack.pop()!='[':
+            else:
+                if (s[i]==')' and stack.pop()!='(') or (s[i]=='}' and stack.pop()!='{') or (s[i]==']' and stack.pop()!='['):
                     return False
         if len(stack)!=0:
             return False
