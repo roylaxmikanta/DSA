@@ -12,7 +12,7 @@ class Solution:
         for index in range(1,len(nums)):
             for total in range(0,target+1):
                 pick=False
-                if nums[index]<=target:
+                if nums[index]<=total:
                     pick=dp[index-1][total-nums[index]]
                 not_pick=dp[index-1][total]
                 dp[index][total]=pick or not_pick
