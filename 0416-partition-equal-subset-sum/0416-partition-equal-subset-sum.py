@@ -4,22 +4,16 @@ class Solution:
         if sumi%2!=0:
             return False
         target=sumi//2
-        dp=[[-1]*(target+1) for _ in range(len(nums))]
-        def solve(index,target):
-            if target==0:
-                return True
-            if index<0:
-                return False
-            if index==0:
-                if nums[0]==target:
-                    return True
-            if dp[index][target]!=-1:
-                return dp[index][target]
-            if nums[index]>target:
+        dp=[[False]*(target+1) for _ in range(len(nums))]
+        for i in range(len(nums)):
+            dp[i][0]=True
+        if nums[0]<=target:
+            dp[0][nums[0]]=True
+        for index in range(1,len(nums)):
+            for total in range(0,target+1):
                 pick=False
-            else:
-                pick=solve(index-1,target-nums[index])
-            not_pick=solve(index-1,target)
-            dp[index][target]=pick or not_pick
-            return dp[index][target]
-        return solve(len(nums)-1,target)
+                if nums[index]<=target:
+                    pick=dp[index-1][total-nums[index]]
+                not_pick=dp[index-1][total]
+                dp[index][total]=pick or not_pick
+        return dp[len(nums)-1][target]
