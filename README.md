@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/roylaxmikanta/DSA/tree/master/0374-guess-number-higher-or-lower) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/roylaxmikanta/DSA/tree/master/3620-network-recovery-pathways) |
 ## Breadth-First Search
@@ -351,4 +352,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/roylaxmikanta/DSA/tree/master/0416-partition-equal-subset-sum) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/roylaxmikanta/DSA/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
