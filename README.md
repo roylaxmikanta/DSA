@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/roylaxmikanta/DSA/tree/master/0213-house-robber-ii) |
 | [0416-partition-equal-subset-sum](https://github.com/roylaxmikanta/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/roylaxmikanta/DSA/tree/master/0628-maximum-product-of-three-numbers) |
+| [0724-find-pivot-index](https://github.com/roylaxmikanta/DSA/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/roylaxmikanta/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/roylaxmikanta/DSA/tree/master/1288-remove-covered-intervals) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/roylaxmikanta/DSA/tree/master/0724-find-pivot-index) |
 | [2485-find-the-pivot-integer](https://github.com/roylaxmikanta/DSA/tree/master/2485-find-the-pivot-integer) |
 | [3904-smallest-stable-index-ii](https://github.com/roylaxmikanta/DSA/tree/master/3904-smallest-stable-index-ii) |
 ## Memoization
