@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/roylaxmikanta/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roylaxmikanta/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/roylaxmikanta/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/roylaxmikanta/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
 | [1463-cherry-pickup-ii](https://github.com/roylaxmikanta/DSA/tree/master/1463-cherry-pickup-ii) |
+| [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/roylaxmikanta/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/roylaxmikanta/DSA/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/roylaxmikanta/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/roylaxmikanta/DSA/tree/master/3731-find-missing-elements) |
 ## Number Theory
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1103-distribute-candies-to-people](https://github.com/roylaxmikanta/DSA/tree/master/1103-distribute-candies-to-people) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
+| [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/roylaxmikanta/DSA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Enumeration
 |  |
