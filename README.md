@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/roylaxmikanta/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/roylaxmikanta/DSA/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/roylaxmikanta/DSA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/roylaxmikanta/DSA/tree/master/0394-decode-string) |
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/roylaxmikanta/DSA/tree/master/0824-goat-latin) |
@@ -310,10 +311,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/roylaxmikanta/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/roylaxmikanta/DSA/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/roylaxmikanta/DSA/tree/master/0394-decode-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/roylaxmikanta/DSA/tree/master/0020-valid-parentheses) |
+| [0394-decode-string](https://github.com/roylaxmikanta/DSA/tree/master/0394-decode-string) |
 ## Greedy
 |  |
 | ------- |
