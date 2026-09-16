@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/roylaxmikanta/DSA/tree/master/0504-base-7) |
 | [0796-rotate-string](https://github.com/roylaxmikanta/DSA/tree/master/0796-rotate-string) |
 | [0824-goat-latin](https://github.com/roylaxmikanta/DSA/tree/master/0824-goat-latin) |
+| [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/roylaxmikanta/DSA/tree/master/1768-merge-strings-alternately) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/roylaxmikanta/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## String Matching
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/roylaxmikanta/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/roylaxmikanta/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/roylaxmikanta/DSA/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/roylaxmikanta/DSA/tree/master/3731-find-missing-elements) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/roylaxmikanta/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/roylaxmikanta/DSA/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/roylaxmikanta/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/roylaxmikanta/DSA/tree/master/3731-find-missing-elements) |
@@ -263,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/roylaxmikanta/DSA/tree/master/0169-majority-element) |
+| [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/roylaxmikanta/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Prefix Sum
 |  |
