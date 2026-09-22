@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/roylaxmikanta/DSA/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/roylaxmikanta/DSA/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/roylaxmikanta/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/roylaxmikanta/DSA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/roylaxmikanta/DSA/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/roylaxmikanta/DSA/tree/master/0290-word-pattern) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/roylaxmikanta/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2352-equal-row-and-column-pairs](https://github.com/roylaxmikanta/DSA/tree/master/2352-equal-row-and-column-pairs) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/roylaxmikanta/DSA/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/roylaxmikanta/DSA/tree/master/3731-find-missing-elements) |
