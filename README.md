@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/roylaxmikanta/DSA/tree/master/0724-find-pivot-index) |
 | [0931-minimum-falling-path-sum](https://github.com/roylaxmikanta/DSA/tree/master/0931-minimum-falling-path-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/roylaxmikanta/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1207-unique-number-of-occurrences](https://github.com/roylaxmikanta/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/roylaxmikanta/DSA/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/roylaxmikanta/DSA/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/roylaxmikanta/DSA/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/roylaxmikanta/DSA/tree/master/0205-isomorphic-strings) |
 | [0290-word-pattern](https://github.com/roylaxmikanta/DSA/tree/master/0290-word-pattern) |
+| [1207-unique-number-of-occurrences](https://github.com/roylaxmikanta/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/roylaxmikanta/DSA/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/roylaxmikanta/DSA/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/roylaxmikanta/DSA/tree/master/2215-find-the-difference-of-two-arrays) |
